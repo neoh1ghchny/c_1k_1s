@@ -1,0 +1,11 @@
+build
+.vscode
+.vs
+*.o
+*.obj
+*.exe
+*.dll
+target
+dist
+.idea
+cmake-build*
